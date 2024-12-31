@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dolly
-- 👀 Aspiring Data Analyst | Python | R | SQL | Data Visualization
+- 👀 Data Analyst | Python | R | SQL | Data Visualization
 - I am passionate about leveraging data to drive insights and innovation.
 - With a background in data analysis, I specialize in creating impactful visualizations, performing statistical analyses, and building robust data pipelines.
 - Languages & Tools: Python, R, SQL, Tableau, Power BI, Excel
